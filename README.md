@@ -8,3 +8,4 @@ Course material deposition for Model Based System Engineering
 
 # Python Lesson 2: Introduction to Numpy Pandas
 * [Lesson 2 Numpy_Pandas_introduction](https://githubtocolab.com/yongzhiqu/ME-5166-6166-MBSE-U-Utah/blob/main/python_Numpy.ipynb)
+* 
