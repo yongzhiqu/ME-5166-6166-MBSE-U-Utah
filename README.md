@@ -8,6 +8,6 @@ Course material deposition for Model Based System Engineering
 
 # Python Lesson 2: Introduction to Numpy Pandas
 * [Lesson 2 Numpy_Pandas_introduction](https://githubtocolab.com/yongzhiqu/ME-5166-6166-MBSE-U-Utah/blob/main/python_Numpy.ipynb)
-* 
+
 # Project 3: Python code template
 * [Project 3 stress evaluation](https://githubtocolab.com/yongzhiqu/ME-5166-6166-MBSE-U-Utah/blob/main/project3_python_code.ipynb)
